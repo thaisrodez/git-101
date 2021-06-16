@@ -1,0 +1,21 @@
+body{
+	margin: 10px;
+	font-family: Helvetica;
+}
+
+h1{
+	text-align: center;
+	color: #FD0E15;
+}
+
+#logo{
+	width: 300px;
+}
+
+#container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
